@@ -1,4 +1,4 @@
-from lib import __version__
+from python_bits import __version__
 
 
 def test_version():
